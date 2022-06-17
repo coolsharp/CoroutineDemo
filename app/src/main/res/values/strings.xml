@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CoroutionDemo</string>
+    <string name="launch_corountines">LAunch Corountines</string>
 </resources>
